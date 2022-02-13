@@ -1,1 +1,1 @@
-# python
+#Основы python
